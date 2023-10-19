@@ -74,7 +74,7 @@ public class Student
 
     public void Jump()
     {
-        Console.WriteLine("*звук прыжка Марио*.");
+        Console.WriteLine("*звук прыжка Марио*");
     }
 
     public void OpenRickrollLink()
